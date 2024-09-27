@@ -1,11 +1,11 @@
-colorScheme = "blowfish"
+colorScheme = "neon"
 defaultAppearance = "light"
 autoSwitchAppearance = true
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 replyByEmail = false
 disableImageOptimization = false
-disableTextInHeader = false
+disableTextInHeader = true
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
@@ -16,7 +16,7 @@ layout = "basic"
 showMenu = true
 showCopyright = true
 showThemeAttribution = true
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
